@@ -3,4 +3,9 @@ package domain;
 public class CommentsInfo {
     private int count;
     private boolean canPost;
+    private boolean groupsCanPost;
+    private boolean canOpen;
+    private boolean canClose;
+
+
 }
